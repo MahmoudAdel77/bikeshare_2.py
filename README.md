@@ -23,3 +23,16 @@ Upon receiving the user input, it goes ahead and asks the user if they want to v
 + The youngest user (if available)
 + The most common birth year amongst users (if available)
 + Finally, the user is prompted with the choice of restarting the program or not.
+
+# Requirements
+Language: Python 3.6 or above
+Libraries: pandas, numpy, time
+# Project Data
++ chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
++ new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
++ washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
+# Built with
++ Python 3.6.6 - The language used to develop this.
++ pandas - One of the libraries used for this.
++ numpy - One of the libraries used for this.
++ time - One of the libraries used for this.
